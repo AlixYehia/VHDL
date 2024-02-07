@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom rtl
+DEFAULT_FILE atom s7_segment_display_decoder_common_anode_active_low_rtl.vhd

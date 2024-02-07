@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom rtl
+DEFAULT_FILE atom Mux_4_to_1_seq_if_elsif_rtl.vhd

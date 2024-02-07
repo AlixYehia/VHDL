@@ -1,0 +1,21 @@
+--
+-- VHDL Architecture Ali.d_flipflop_Async_reset_Sync_en.rtl
+--
+-- Created:
+--          by - Lenovo.UNKNOWN (DESKTOP-LUUUGA3)
+--          at - 05:09:47 12/13/2023
+--
+-- using Mentor Graphics HDL Designer(TM) 2007.1 (Build 19)
+--
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.std_logic_arith.all;
+
+ENTITY d_flipflop_Async_reset_Sync_en IS
+END ENTITY d_flipflop_Async_reset_Sync_en;
+
+--
+ARCHITECTURE rtl OF d_flipflop_Async_reset_Sync_en IS
+BEGIN
+END ARCHITECTURE rtl;
+

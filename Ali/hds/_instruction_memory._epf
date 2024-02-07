@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom rtl
+DEFAULT_FILE atom Instruction_Memory_rtl.vhd

@@ -1,0 +1,55 @@
+# Logging session transcript to file "C:/Users/LAB107~1/AppData/Local/Temp/log45f19ec.0"
+//  Precision Synthesis 2006a.112 (Production Release) Thu Dec 21 00:28:44 PST 2006
+//  
+//  Copyright (c) Mentor Graphics Corporation, 1996-2006, All Rights Reserved.
+//             Portions copyright 1991-2004 Compuware Corporation
+//                       UNPUBLISHED, LICENSED SOFTWARE.
+//            CONFIDENTIAL AND PROPRIETARY INFORMATION WHICH IS THE
+//          PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+//  
+//  Running on Windows NT Lab 107@DESKTOP-7DIT156  6.02.9200 i686
+//  
+//  Start time Thu Oct 19 22:13:43 2023
+# -------------------------------------------------
+
+# Logging session transcript to file "C:/Users/LAB107~1/AppData/Local/Temp/log45f19ec.0"
+# 
+# COMMAND: dofile C:/FPGAdv81PS/Hds/resources/misc/RunPrecision.tcl
+# 
+# sock1428
+# ModelSim 5.1
+# DESKTOP-7DIT156:51161
+dofile C:/FPGAdv81PS/Hds/resources/misc/RunPrecision.tcl
+# source "C:/HDS/my_project/Ali/ps/Mux_2_to_1_rtl/hds/precision.tcl"
+# Info: HDL Designer Synthesis run started
+# Info: [159]: Saved project file: 'C:/HDS/my_project/Ali/ps/Mux_2_to_1_rtl/Mux_2_to_1_rtl.psp'.
+# Info: Input directory: C:/HDS/my_project/Ali/ps/Mux_2_to_1_rtl/
+# Moving session transcript to file "C:/HDS/my_project/Ali/ps/Mux_2_to_1_rtl/precision.log"
+# Info: [247]: Created project Mux_2_to_1_rtl in folder 'C:/HDS/my_project/Ali/ps/Mux_2_to_1_rtl/'.
+# Error: You have not specified a technology. This may cause synthesis to fail.
+# Warning: [49]: No active implementation.
+# 
+# COMMAND: new_impl -name Mux_2_to_1_rtl_impl_1
+# 
+# Info: [150]: Created directory: 'C:/HDS/my_project/Ali/ps/Mux_2_to_1_rtl/Mux_2_to_1_rtl_impl_1/'.
+# Info: [159]: Saved project file: 'C:/HDS/my_project/Ali/ps/Mux_2_to_1_rtl/Mux_2_to_1_rtl.psp'.
+# Info: [158]: Saved implementation file: 'C:/HDS/my_project/Ali/ps/Mux_2_to_1_rtl/Mux_2_to_1_rtl_impl_1/Mux_2_to_1_rtl_impl_1.psi'.
+# Info: [246]: Created implementation Mux_2_to_1_rtl_impl_1 in project Mux_2_to_1_rtl.
+# Info: [150]: Created directory: 'C:/HDS/my_project/Ali/ps/Mux_2_to_1_rtl/Mux_2_to_1_rtl_temp_1/'.
+# Info: Results directory: C:/HDS/my_project/Ali/ps/Mux_2_to_1_rtl/Mux_2_to_1_rtl_temp_1/
+# Appending project transcript to file "C:/HDS/my_project/Ali/ps/Mux_2_to_1_rtl/Mux_2_to_1_rtl_temp_1/precision.log"
+# Info: [242]: Activated implementation Mux_2_to_1_rtl_impl_1 in project Mux_2_to_1_rtl.
+new_impl -name Mux_2_to_1_rtl_impl_1
+# Error: [206]: Command failed: run setup_design to choose a technology before executing compile.
+# Info: HDL Designer Synthesis run finished
+# 
+# COMMAND: exit
+# 
+# 
+# COMMAND: close_project -discard true
+# 
+# Warning: [128]: Discarded unsaved work in implementation Mux_2_to_1_rtl_impl_1.
+# Info: [159]: Saved project file: 'C:/HDS/my_project/Ali/ps/Mux_2_to_1_rtl/Mux_2_to_1_rtl.psp'.
+# Info: [149]: Closed project: Mux_2_to_1_rtl.
+close_project -discard true
+exit

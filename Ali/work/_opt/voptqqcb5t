@@ -1,0 +1,628 @@
+m255
+K3
+13
+Z0 cModel Technology
+Z1 dC:\HDS\my_project\Ali\work
+T_opt
+Z2 V5dI9=:5j4?KZ2cc=TEa?D3
+Z3 03 19 3 Ali add_shift_multipler rtl 0
+Z4 =1-6c24085cd2f6-6594e1d2-23-73b4
+Z5 o-quiet +acc -auto_acc_if_foreign -work Ali -L Ali
+Z6 tExplicit 1
+Z7 OE;O;6.3a;37
+T_opt1
+Z8 VYG0f;I3H<^^PLmW1da:ll3
+Z9 03 18 3 Ali instruction_memory rtl 0
+Z10 =1-6c24085cd2f6-6594be16-a7-5e18
+R5
+R6
+R7
+T_opt2
+Z11 Vn>TYNHVL98P;GXHVHfKmW3
+Z12 03 15 3 Ali rotate_register rtl 0
+Z13 =1-6c24085cd2f6-6594dda8-394-8c28
+R5
+R6
+R7
+Eadd_shift_multipler
+Z14 w1704255936
+Z15 DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+Z16 DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+31
+Z17 dC:\Hds\my_project\Ali\work
+Z18 8C:/HDS/my_project/Ali/hdl/add_shift_multiplier_rtl.vhd
+Z19 FC:/HDS/my_project/Ali/hdl/add_shift_multiplier_rtl.vhd
+l0
+L14
+Z20 VY_jof_JzLC?If7a^ma0o@3
+Z21 OE;C;6.3a;37
+Z22 o-work Ali -nologo -93
+R6
+Artl
+R15
+R16
+DE Ali add_shift_multipler Y_jof_JzLC?If7a^ma0o@3
+31
+Z23 M2 ieee std_logic_1164
+Z24 M1 ieee std_logic_arith
+l27
+L22
+Z25 Vo<[PO]A^ZE2`gX^FOPEDg2
+R21
+R22
+R6
+Eadd_shift_multiplier
+Z26 w1703152849
+Z27 DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+R15
+R16
+R17
+Z28 8C:/HDS/my_project/Ali/hdl/add_shift_multipler_rtl.vhd
+Z29 FC:/HDS/my_project/Ali/hdl/add_shift_multipler_rtl.vhd
+l0
+L6
+Z30 V>_g@^ei0:da:0J8ng87472
+R21
+31
+R22
+R6
+Ealu
+Z31 w1704250125
+R15
+R27
+R16
+R17
+Z32 8C:/HDS/my_project/Ali/hdl/ALU_rtl.vhd
+Z33 FC:/HDS/my_project/Ali/hdl/ALU_rtl.vhd
+l0
+L15
+Z34 VY9C1Wm9[SL@OJz]HR>mjg0
+R21
+31
+R22
+R6
+Artl
+R15
+R27
+R16
+Z35 DE work alu Y9C1Wm9[SL@OJz]HR>mjg0
+l27
+L24
+Z36 VJW3l?iFbabn3C=Vh^29>J0
+R21
+31
+Z37 M3 ieee std_logic_1164
+Z38 M2 ieee std_logic_unsigned
+R24
+R22
+R6
+Ecounter
+Z39 w1699911354
+R15
+R16
+R17
+Z40 8C:/HDS/my_project/Ali/hdl/Counter_rtl.vhd
+Z41 FC:/HDS/my_project/Ali/hdl/Counter_rtl.vhd
+l0
+L14
+Z42 V^XD6QKk<2MN2?]ZCcfNKQ0
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z43 DE work counter ^XD6QKk<2MN2?]ZCcfNKQ0
+l22
+L20
+Z44 V<eQdCG2Gj4GLaE0of]UoJ0
+R21
+31
+R23
+R24
+R22
+R6
+Ed_flipflop_async_reset
+Z45 w1702436932
+R15
+R16
+R17
+Z46 8C:/HDS/my_project/Ali/hdl/d_flipflop_Async_reset_rtl.vhd
+Z47 FC:/HDS/my_project/Ali/hdl/d_flipflop_Async_reset_rtl.vhd
+l0
+L14
+Z48 VRbP5dQeMUVW?]fQ2<^Z`22
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z49 DE work d_flipflop_async_reset RbP5dQeMUVW?]fQ2<^Z`22
+l21
+L20
+Z50 V64NNWm6I3o8bYn]41:HO81
+R21
+31
+R23
+R24
+R22
+R6
+Ed_flipflop_async_reset_sync_en
+Z51 w1702437002
+R15
+R16
+R17
+Z52 8C:/HDS/my_project/Ali/hdl/d_flipflop_Async_reset_Sync_en_rtl.vhd
+Z53 FC:/HDS/my_project/Ali/hdl/d_flipflop_Async_reset_Sync_en_rtl.vhd
+l0
+L14
+Z54 VXjNcY[HGISS[3]<jMCUdK3
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z55 DE work d_flipflop_async_reset_sync_en XjNcY[HGISS[3]<jMCUdK3
+l23
+L22
+Z56 VlF:K^DJkEHK7]N:3i>Qib3
+R21
+31
+R23
+R24
+R22
+R6
+Ed_flipflop_sync_en
+Z57 w1700798705
+R15
+R16
+Z58 8C:/HDS/my_project/Ali/hdl/d_flipflop_sync_en_rtl.vhd
+Z59 FC:/HDS/my_project/Ali/hdl/d_flipflop_sync_en_rtl.vhd
+l0
+L14
+Z60 VXd:LPE9K?EGQmaj64NYLN3
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z61 DE work d_flipflop_sync_en Xd:LPE9K?EGQmaj64NYLN3
+l21
+L20
+Z62 VN7Za1TBCgZnT3g4ZGW[^K2
+R21
+31
+R23
+R24
+R22
+R6
+Ed_latch
+Z63 w1700798272
+R15
+R16
+Z64 8C:/HDS/my_project/Ali/hdl/d_latch_rtl.vhd
+Z65 FC:/HDS/my_project/Ali/hdl/d_latch_rtl.vhd
+l0
+L14
+Z66 V2:=dKAmUfd<>9HD6B6n]N3
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z67 DE work d_latch 2:=dKAmUfd<>9HD6B6n]N3
+l21
+L20
+Z68 V[:K8LZZ@^_VehaN64O_k_3
+R21
+31
+R23
+R24
+R22
+R6
+Edecoder
+Z69 w1698374945
+R15
+R16
+Z70 8C:/HDS/my_project/Ali/hdl/decoder_rtl.vhd
+Z71 FC:/HDS/my_project/Ali/hdl/decoder_rtl.vhd
+l0
+L14
+Z72 V5n7LV[1f;HJb=lXm<QdD:1
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z73 DE work decoder 5n7LV[1f;HJb=lXm<QdD:1
+l22
+L21
+Z74 Ve0e0AY?c;DB4QDc<RGbdc2
+R21
+31
+R23
+R24
+R22
+R6
+Edemux
+Z75 w1698728768
+R15
+R16
+Z76 8C:/HDS/my_project/Ali/hdl/Demux_rtl.vhd
+Z77 FC:/HDS/my_project/Ali/hdl/Demux_rtl.vhd
+l0
+L14
+Z78 VFcC2O8N5EBOlOZb:fo=`D2
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z79 DE work demux FcC2O8N5EBOlOZb:fo=`D2
+l27
+L26
+Z80 V@^Sd=PU=fKm6=fYN_^0gm0
+R21
+31
+R23
+R24
+R22
+R6
+Efsm_sequence_detector
+Z81 w1701407369
+R15
+R16
+Z82 8C:/HDS/my_project/Ali/hdl/fsm_sequence_detector_fsm.vhd
+Z83 FC:/HDS/my_project/Ali/hdl/fsm_sequence_detector_fsm.vhd
+l0
+L13
+Z84 VlldQcOL<n1XiX?H>B@QkV2
+R21
+32
+Z85 o-work Ali -nologo
+R6
+Afsm
+Z86 DE work fsm_sequence_detector lldQcOL<n1XiX?H>B@QkV2
+R15
+R16
+l51
+L38
+Z87 VlbYa;D1>;b>5B`27N<4TW3
+R21
+32
+R23
+R24
+R85
+R6
+Efulladder
+Z88 w1699330420
+R15
+R16
+Z89 8C:/HDS/my_project/Ali/hdl/fulladder_struct.vhd
+Z90 FC:/HDS/my_project/Ali/hdl/fulladder_struct.vhd
+l0
+L13
+Z91 VngCViG1_8f;lRZo5aiOiF2
+R21
+32
+R85
+R6
+Astruct
+Z92 DE ali half_adder eMA<[eg1gN2d<K_`S8YoX1
+Z93 DE work fulladder ngCViG1_8f;lRZo5aiOiF2
+R15
+R16
+l67
+L41
+Z94 V`H;oR@g0eoPBgE0PIGab`2
+R21
+32
+R23
+R24
+R85
+R6
+Ehalf_adder
+Z95 w1698117146
+R15
+R16
+Z96 8C:/HDS/my_project/Ali/hdl/half_adder_rtl.vhd
+Z97 FC:/HDS/my_project/Ali/hdl/half_adder_rtl.vhd
+l0
+L14
+Z98 VeMA<[eg1gN2d<K_`S8YoX1
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z99 DE work half_adder eMA<[eg1gN2d<K_`S8YoX1
+l25
+L24
+Z100 V6_YaW1U77>B6Bl4;Zdo;21
+R21
+31
+R23
+R24
+R22
+R6
+Einstruction_memory
+Z101 w1704246731
+Z102 DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+R16
+R17
+Z103 8C:/HDS/my_project/Ali/hdl/Instruction_Memory_rtl.vhd
+Z104 FC:/HDS/my_project/Ali/hdl/Instruction_Memory_rtl.vhd
+l0
+L16
+Z105 VbOz;ceEUo[`RTQP@EL2:<3
+R21
+31
+R22
+R6
+Artl
+R102
+R16
+Z106 DE work instruction_memory bOz;ceEUo[`RTQP@EL2:<3
+l40
+L27
+Z107 V@C]Jf0F^XlIS>FDbjdO7c2
+R21
+31
+R23
+Z108 M1 ieee numeric_std
+R22
+R6
+Emoore_fsm_odd_1s_2_zeroes
+Z109 w1701754653
+R15
+R16
+Z110 8C:/HDS/my_project/Ali/hdl/moore_fsm_odd_1s_2_zeroes_fsm.vhd
+Z111 FC:/HDS/my_project/Ali/hdl/moore_fsm_odd_1s_2_zeroes_fsm.vhd
+l0
+L13
+Z112 Vf]_3Dh:mb5DEYcgbnSVIe3
+R21
+32
+R85
+R6
+Afsm
+Z113 DE work moore_fsm_odd_1s_2_zeroes f]_3Dh:mb5DEYcgbnSVIe3
+R15
+R16
+l54
+L39
+Z114 V1:^LJYnC9K_R:IFgh[k^V3
+R21
+32
+R23
+R24
+R85
+R6
+Emux_2_to_1
+Z115 w1697770769
+R15
+R16
+Z116 8C:/HDS/my_project/Ali/hdl/Mux_2_to_1_rtl.vhd
+Z117 FC:/HDS/my_project/Ali/hdl/Mux_2_to_1_rtl.vhd
+l0
+L14
+Z118 VobJTk5]2W9X?>Li_l8a:a0
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z119 DE work mux_2_to_1 obJTk5]2W9X?>Li_l8a:a0
+l26
+L25
+Z120 VIH>WigKYkmH_45I_a?Baf2
+R21
+31
+R23
+R24
+R22
+R6
+Emux_4_to_1_using_mux_2_to_1
+Z121 w1698116635
+R15
+R16
+Z122 8C:/HDS/my_project/Ali/hdl/mux_4_to_1_using_mux_2_to_1_struct.vhd
+Z123 FC:/HDS/my_project/Ali/hdl/mux_4_to_1_using_mux_2_to_1_struct.vhd
+l0
+L13
+Z124 VMO9mFLK4I?4FabKniaQ0j0
+R21
+32
+R85
+R6
+Astruct
+Z125 DE ali mux_2_to_1 obJTk5]2W9X?>Li_l8a:a0
+Z126 DE work mux_4_to_1_using_mux_2_to_1 MO9mFLK4I?4FabKniaQ0j0
+R15
+R16
+l64
+L39
+Z127 V:^jSLSJXl:]WT^Y5:CP]S2
+R21
+32
+R23
+R24
+R85
+R6
+Eor_gate
+Z128 w1698118502
+R15
+R16
+Z129 8C:/HDS/my_project/Ali/hdl/or_gate_rtl.vhd
+Z130 FC:/HDS/my_project/Ali/hdl/or_gate_rtl.vhd
+l0
+L14
+Z131 VZZ;59<WL00R_HmE?emOMl0
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z132 DE work or_gate ZZ;59<WL00R_HmE?emOMl0
+l24
+L23
+Z133 V^mWLO9LSB=TkXg2E6X@:[3
+R21
+31
+R23
+R24
+R22
+R6
+Epc
+Z134 w1704245056
+R15
+R16
+R17
+Z135 8C:/HDS/my_project/Ali/hdl/PC_rtl.vhd
+Z136 FC:/HDS/my_project/Ali/hdl/PC_rtl.vhd
+l0
+L16
+Z137 VeTI=YLc`OWPGITgk>E3_P1
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z138 DE work pc eTI=YLc`OWPGITgk>E3_P1
+l24
+L22
+Z139 V4jPO1Pj@b`ILnGNLTEbh41
+R21
+31
+R23
+R24
+R22
+R6
+Erotate_register
+Z140 w1704254873
+R15
+R16
+R17
+Z141 8C:/HDS/my_project/Ali/hdl/rotate_left_register_rtl.vhd
+Z142 FC:/HDS/my_project/Ali/hdl/rotate_left_register_rtl.vhd
+l0
+L14
+Z143 VE^aUTmHkAj2bXVT0P87h03
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z144 DE work rotate_register E^aUTmHkAj2bXVT0P87h03
+l26
+L23
+Z145 VKkTEl3:<:]S?XZzO[M@k22
+R21
+31
+R23
+R24
+R22
+R6
+Es7_segment_display_decoder_common_anode_active_low
+Z146 w1699336871
+R15
+R16
+Z147 8C:/HDS/my_project/Ali/hdl/s7_segment_display_decoder_common_anode_active_low_rtl.vhd
+Z148 FC:/HDS/my_project/Ali/hdl/s7_segment_display_decoder_common_anode_active_low_rtl.vhd
+l0
+L14
+Z149 VR4F7<z@BMX@9;O1L_4;Ij1
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z150 DE work s7_segment_display_decoder_common_anode_active_low R4F7<z@BMX@9;O1L_4;Ij1
+l22
+L21
+Z151 VKmA6<8Q7D51GiPiNUz2cc3
+R21
+31
+R23
+R24
+R22
+R6
+Esimple_comparator
+Z152 w1703154037
+R15
+R16
+R17
+Z153 8C:/HDS/my_project/Ali/hdl/comparator_rtl.vhd
+Z154 FC:/HDS/my_project/Ali/hdl/comparator_rtl.vhd
+l0
+L14
+Z155 VlSgeI<H?iKFI_f_RG`S^T2
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z156 DE work simple_comparator lSgeI<H?iKFI_f_RG`S^T2
+l23
+L22
+Z157 V:;@JW4Md5gzo<XT7kW?IY3
+R21
+31
+R23
+R24
+R22
+R6
+Etraffic_light
+Z158 w1702435763
+R15
+R16
+R17
+Z159 8C:/HDS/my_project/Ali/hdl/traffic_light_rtl.vhd
+Z160 FC:/HDS/my_project/Ali/hdl/traffic_light_rtl.vhd
+l0
+L16
+Z161 VeV@6X3OdLEQC4bO<V[=TA1
+R21
+31
+R22
+R6
+Artl
+R15
+R16
+Z162 DE work traffic_light eV@6X3OdLEQC4bO<V[=TA1
+l25
+L23
+Z163 V1lIW=e2giT=gL[39HIROY0
+R21
+31
+R23
+R24
+R22
+R6

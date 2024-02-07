@@ -1,0 +1,363 @@
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW symbol.sb
+GRAPHIC 184,0 14 0 
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW symbol.sb
+GRAPHIC 112,0 15 0 
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW symbol.sb
+GRAPHIC 117,0 16 0 
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW symbol.sb
+GRAPHIC 149,0 17 0 
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW symbol.sb
+GRAPHIC 154,0 18 0 
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW symbol.sb
+GRAPHIC 1,0 22 0 
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 27,0 34 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 37
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 2,0 56 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 57
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 2,0 60 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 61
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 66,0 62 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 56,0 64 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 65
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 2,0 67 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 68
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 2,0 70 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 71
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 2,0 76 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 39,0 77 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 282,0 78 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 152,0 79 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 322,0 80 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 169,0 81 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 82
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 39,0 83 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 84
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 152,0 85 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 292,0 86 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 39,0 87 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 302,0 88 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 186,0 89 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 90
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 152,0 91 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 92
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 169,0 93 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 332,0 94 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 243,0 95 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 362,0 96 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 152,0 97 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 98
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 169,0 99 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 100
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 186,0 101 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 352,0 102 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 39,0 103 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 312,0 104 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 260,0 105 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 106
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 186,0 107 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 108
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 243,0 109 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 342,0 110 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 260,0 111 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 392,0 112 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 243,0 113 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 114
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 243,0 115 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 116
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 260,0 117 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 382,0 118 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 260,0 119 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 372,0 120 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 243,0 121 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 122
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 260,0 123 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 124
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 89,0 125 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 127
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 2,0 128 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 129
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 2,0 131 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 132
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 2,0 138 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 39,0 139 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 54,0 140 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 152,0 141 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 167,0 142 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 169,0 143 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 184,0 144 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 186,0 145 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 201,0 146 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 243,0 147 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 258,0 148 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 260,0 149 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 275,0 150 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 151
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+GRAPHIC 2,0 153 0
+LIBRARY Ali
+DESIGN @moore_@f@s@m_odd_1s_2_zeroes
+VIEW fsm.sm
+NO_GRAPHIC 155

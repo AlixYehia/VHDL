@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom fsm
+DEFAULT_FILE atom @f@s@m_@sequence_@detector/fsm.sm

@@ -1,0 +1,35 @@
+# //  ModelSim SE 6.3a Jun 25 2007 
+# //
+# //  Copyright 1991-2007 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim -L Ali -l transcript.txt -i -multisource_delay latest -t ns +typdelays -foreign {hdsInit C:/Hds/resources/downstream/modelsim/ModelSim_32Bit.dll} -pli C:/Hds/resources/downstream/modelsim/ModelSim_32Bit.dll Ali.add_shift_multipler(rtl) 
+# Loading C:/Hds/resources/downstream/modelsim/ModelSim_32Bit.dll
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.add_shift_multipler(rtl)
+add wave \
+{sim:/add_shift_multipler/a } \
+{sim:/add_shift_multipler/b } \
+{sim:/add_shift_multipler/shift_left_divison } \
+{sim:/add_shift_multipler/shift_right_multiply } \
+{sim:/add_shift_multipler/output } \
+{sim:/add_shift_multipler/temp_reg } \
+{sim:/add_shift_multipler/operation } \
+{sim:/add_shift_multipler/shift_holder_b } \
+{sim:/add_shift_multipler/shift_holder_a } 
+force -freeze sim:/add_shift_multipler/a 10000 0
+force -freeze sim:/add_shift_multipler/b 00001 0
+run
+run
+# 0
+# 
+run
+# 0
+# 

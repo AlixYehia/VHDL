@@ -1,0 +1,287 @@
+DESIGN @microprocessor_8_bits
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @microprocessor_8_bits
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN @microprocessor_8_bits
+VIEW symbol.sb
+GRAPHIC 112,0 14 0 
+DESIGN @microprocessor_8_bits
+VIEW symbol.sb
+GRAPHIC 117,0 15 0 
+DESIGN @microprocessor_8_bits
+VIEW symbol.sb
+GRAPHIC 1,0 18 0 
+DESIGN @microprocessor_8_bits
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 22
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 42,0 31 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 36
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 0,0 39 2 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 365,0 44 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 433,0 45 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 469,0 46 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 353,0 47 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 359,0 48 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 395,0 49 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 439,0 50 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 463,0 51 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 371,0 52 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 475,0 53 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 377,0 54 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 427,0 55 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 481,0 56 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 57
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 445,0 59 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 61
+LIBRARY Ali
+DESIGN @a@l@u
+VIEW rtl
+GRAPHIC 125,0 63 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 69
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 151,0 71 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 77
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 181,0 79 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 86
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 199,0 88 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 92
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 263,0 94 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 103
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 225,0 105 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 111
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 299,0 113 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 119
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 317,0 121 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 125
+LIBRARY Ali
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 127
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 125,0 130 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 151,0 131 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 181,0 132 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 199,0 133 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 263,0 134 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 225,0 135 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 299,0 136 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 317,0 137 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 140
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 142
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 125,0 144 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 367,0 146 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 465,0 147 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 483,0 148 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 415,0 149 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 151,0 151 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 361,0 153 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 367,0 154 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 435,0 155 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 441,0 156 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 181,0 158 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 355,0 160 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 361,0 161 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 373,0 162 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 379,0 163 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 397,0 164 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 199,0 166 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 403,0 168 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 355,0 169 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 263,0 171 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 457,0 173 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 373,0 174 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 379,0 175 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 429,0 176 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 445,0 177 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 465,0 178 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 477,0 179 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 225,0 181 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 389,0 183 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 397,0 184 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 441,0 185 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 429,0 186 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 299,0 188 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 477,0 190 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 471,0 191 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 435,0 192 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 483,0 193 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 317,0 195 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 451,0 197 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 471,0 198 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+GRAPHIC 445,0 202 0 
+DESIGN @microprocessor_8_bits
+VIEW struct.bd
+NO_GRAPHIC 204

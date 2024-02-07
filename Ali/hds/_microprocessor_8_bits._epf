@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom struct
+DEFAULT_FILE atom @microprocessor_8_bits/struct.bd

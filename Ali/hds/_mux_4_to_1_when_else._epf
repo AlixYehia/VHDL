@@ -1,0 +1,2 @@
+DEFAULT_FILE atom Mux_4_to_1_rtl.vhd
+DEFAULT_ARCHITECTURE atom rtl

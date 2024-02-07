@@ -1,0 +1,36 @@
+--
+-- VHDL Architecture Ali.Mux_4_to_1_seq_if_elsif.rtl
+--
+-- Created:
+--          by - Lab 107.UNKNOWN (DESKTOP-7DIT156)
+--          at - 22:21:20 10/30/2023
+--
+-- using Mentor Graphics HDL Designer(TM) 2007.1 (Build 19)
+--
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.std_logic_arith.all;
+
+ENTITY Mux_4_to_1_seq_if_elsif IS
+  
+  port(a,b,c,d:in std_logic;
+       sel:in std_logic_vector(1 downto 0);
+       output:out std_logic);
+       
+END ENTITY Mux_4_to_1_seq_if_elsif;
+
+--
+ARCHITECTURE rtl OF Mux_4_to_1_seq_if_elsif IS
+BEGIN
+  process(a,b,c,d,sel)
+    begin
+      if(sel="00")then    output<=a;
+      elsif(sel="01")then output<=b;
+      elsif(sel="10")then output<=c;
+      else                output<=d;
+      end if;
+    
+   end process;
+      
+END ARCHITECTURE rtl;
+

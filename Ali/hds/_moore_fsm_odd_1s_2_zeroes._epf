@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom fsm
+DEFAULT_FILE atom @moore_@f@s@m_odd_1s_2_zeroes/fsm.sm

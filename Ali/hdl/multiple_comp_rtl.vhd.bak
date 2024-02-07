@@ -1,0 +1,31 @@
+--
+-- VHDL Architecture Ali.multiple_comp.rtl
+--
+-- Created:
+--          by - Lab 107.UNKNOWN (DESKTOP-7DIT156)
+--          at - 22:46:17 10/30/2023
+--
+-- using Mentor Graphics HDL Designer(TM) 2007.1 (Build 19)
+--
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.std_logic_arith.all;
+
+ENTITY multiple_comp IS
+  
+  port(a,b,c,d,e,f:in unsinged (2 downto 1);
+       y:out std_logic);
+  
+END ENTITY multiple_comp;
+
+--
+ARCHITECTURE rtl OF multiple_comp IS
+BEGIN
+  process(a,b,c,d,e,f)
+    begin
+      if( (a=b) and (c/=d or e>=f) )then
+        y<='1';
+      else
+        y<='0';
+END ARCHITECTURE rtl;
+

@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom struct
+DEFAULT_FILE atom @mux_4_to_1_using_@mux_2_to_1/struct.bd

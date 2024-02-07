@@ -1,0 +1,35 @@
+--
+-- VHDL Architecture Ali.Mux_2_to_1.rtl
+--
+-- Created:
+--          by - Lab 107.UNKNOWN (DESKTOP-7DIT156)
+--          at - 20:46:56 10/19/2023
+--
+-- using Mentor Graphics HDL Designer(TM) 2007.1 (Build 19)
+--
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+USE ieee.std_logic_arith.all;
+
+ENTITY Mux_2_to_1 IS
+  
+  port( x,y: in std_logic;
+        sel: in std_logic;
+        z: out std_logic);
+  
+  
+  
+END ENTITY Mux_2_to_1;
+--
+ARCHITECTURE rtl OF Mux_2_to_1 IS
+BEGIN
+  process (sel, x, y)
+    begin
+      if(sel='0')then   z<=x;
+      else              z<=y;
+      end if;
+      
+    end process;
+  
+END ARCHITECTURE rtl;
+

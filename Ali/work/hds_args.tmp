@@ -1,0 +1,1 @@
+ -L Ali -l transcript.txt -i -t ns -multisource_delay latest +typdelays Ali.add_shift_multipler(rtl)

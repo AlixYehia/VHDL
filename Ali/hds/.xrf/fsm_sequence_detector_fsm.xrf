@@ -1,0 +1,280 @@
+DESIGN @f@s@m_@sequence_@detector
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @f@s@m_@sequence_@detector
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN @f@s@m_@sequence_@detector
+VIEW symbol.sb
+GRAPHIC 112,0 14 0 
+DESIGN @f@s@m_@sequence_@detector
+VIEW symbol.sb
+GRAPHIC 117,0 15 0 
+DESIGN @f@s@m_@sequence_@detector
+VIEW symbol.sb
+GRAPHIC 149,0 16 0 
+DESIGN @f@s@m_@sequence_@detector
+VIEW symbol.sb
+GRAPHIC 154,0 17 0 
+DESIGN @f@s@m_@sequence_@detector
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN @f@s@m_@sequence_@detector
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 27,0 33 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 36
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 2,0 53 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 54
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 2,0 57 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 58
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 66,0 59 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 56,0 61 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 62
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 2,0 64 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 65
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 2,0 67 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 68
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 2,0 73 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 39,0 74 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 269,0 75 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 39,0 76 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 259,0 77 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 203,0 78 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 79
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 39,0 80 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 81
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 203,0 82 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 279,0 83 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 203,0 84 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 309,0 85 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 220,0 86 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 87
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 203,0 88 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 89
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 220,0 90 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 289,0 91 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 203,0 92 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 299,0 93 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 237,0 94 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 95
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 220,0 96 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 97
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 237,0 98 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 415,0 99 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 203,0 100 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 319,0 101 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 39,0 102 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 103
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 237,0 104 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 105
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 89,0 106 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 108
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 2,0 109 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 110
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 2,0 112 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 113
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 2,0 119 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 39,0 120 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 54,0 121 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 203,0 122 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 218,0 123 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 220,0 124 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 235,0 125 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 237,0 126 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 252,0 127 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 128
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+GRAPHIC 2,0 130 0
+LIBRARY Ali
+DESIGN @f@s@m_@sequence_@detector
+VIEW fsm.sm
+NO_GRAPHIC 132
